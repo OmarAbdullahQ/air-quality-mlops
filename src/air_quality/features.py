@@ -12,7 +12,7 @@ FEATURES = [
 ] 
  
  
-def build_dataset(raw_path: str, output_path: str, threshold: float = 35.0) -> pd.DataFrame: 
+def build_dataset(raw_path: str, output_path: str, threshold: float = 150.0) -> pd.DataFrame: 
     payload = json.loads(Path(raw_path).read_text(encoding="utf-8")) 
     air = pd.DataFrame(payload["air_quality"]["hourly"]) 
     weather = pd.DataFrame(payload["weather"]["hourly"]) 
