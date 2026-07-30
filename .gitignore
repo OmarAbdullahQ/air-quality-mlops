@@ -5,7 +5,6 @@ __pycache__/
 
 reports/
 
-mlflow.db
 mlartifacts/
 
 
