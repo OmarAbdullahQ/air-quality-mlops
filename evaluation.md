@@ -6,4 +6,5 @@ best model with it's scores
 
 confusion matrix
 
-![alt text](image.png)
+![alt text](<img width="1208" height="1072" alt="image" src="https://github.com/user-attachments/assets/e1461f50-edbf-4281-8b2e-8a04c5164558" />
+age.png)
