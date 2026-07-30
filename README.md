@@ -1,8 +1,6 @@
 # Names:
-Omar Abdullah
-Badr Al Zahrani
-Emad
-Omar 
+Omar Abdullah-Badr Al Zahrani-Emad-Omar 
+
 
 # Riyadh Air Quality Intelligence Platform
 
