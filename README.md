@@ -1,3 +1,9 @@
+# Names:
+Omar Abdullah
+Badr Al Zahrani
+Emad
+Omar 
+
 # Riyadh Air Quality Intelligence Platform
 
 > End-to-end MLOps system that predicts whether the next hour in Riyadh will
