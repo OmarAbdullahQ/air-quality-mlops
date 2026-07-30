@@ -3,15 +3,11 @@ __pycache__/
 .pytest_cache/
 *.pyc
 
-models/
 reports/
 
 mlflow.db
 mlartifacts/
-mlruns/
 
-data/raw/
-data/processed/
-data/monitoring/
+
 
 .env

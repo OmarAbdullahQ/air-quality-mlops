@@ -1,0 +1,24 @@
+artifact_path: file:C:/Users/acer/Desktop/AI_Bootcamp2/Week4/Day4/air-quality-mlops/mlruns/1/models/m-94e5d5cd69834cf8bee5a7729835bdca/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.13.14
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types:
+    - numpy.dtype
+mlflow_version: 3.14.0
+model_id: m-94e5d5cd69834cf8bee5a7729835bdca
+model_size_bytes: 113864
+model_uuid: m-94e5d5cd69834cf8bee5a7729835bdca
+prompts: null
+run_id: 0d02b0b7ef6d468f8e3f7a14b91502d2
+utc_time_created: '2026-07-29 19:27:06.602303'
