@@ -1,19 +1,12 @@
-.venv
-.git
-.gitignore
-.pytest_cache
-__pycache__
+.venv/
+.git/
+.pytest_cache/
+__pycache__/
 *.pyc
 
-mlruns
+.vscode/
+.idea/
+
+mlruns/
 mlflow.db
 
-reports
-models
-
-data/raw
-data/processed
-data/monitoring
-
-.vscode
-.idea
