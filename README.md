@@ -12,7 +12,7 @@ Built as a complete MLOps project — from raw API data to a live prediction ser
 ### Local
 
 ```bash
-git clone <repo-url>
+git clone git clone https://github.com/OmarAbdullahQ/air-quality-mlops.git
 cd air-quality-mlops
 uv sync
 
@@ -304,7 +304,10 @@ No license specified. All rights reserved by the author.
 
 ##  Authors
 
-**Omar Abdullah-Badr Al Zahrani-Emad Almuhaysin-Omar Saleh
+Omar Abdullah
+Badr Al Zahrani
+Emad Almuhaysin
+Omar Saleh
 
-** 
+
 
